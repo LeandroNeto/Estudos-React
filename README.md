@@ -1,1 +1,1 @@
-"# Estudos-React" 
+Repositório dedicado para estudos em ReactJS.
